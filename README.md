@@ -1,4 +1,4 @@
-*Improving Student Retention: Deep Learning Strategies with Socioeconomic Data*
+**Improving Student Retention: Deep Learning Strategies with Socioeconomic Data**
 
 
 LINK TO PRESENTATION: https://docs.google.com/presentation/d/1RrigMwKeF5VwiSe2Pzp6J1I_iDnE4iazl2mIqenrBi0/edit?usp=sharing
