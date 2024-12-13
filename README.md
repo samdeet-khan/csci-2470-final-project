@@ -1,4 +1,8 @@
+Improving Student Retention: Deep Learning Strategies with Socioeconomic Data
+
+
 LINK TO PRESENTATION: https://docs.google.com/presentation/d/1RrigMwKeF5VwiSe2Pzp6J1I_iDnE4iazl2mIqenrBi0/edit?usp=sharing
+
 LINK TO REPORT: https://docs.google.com/document/d/1ATTMwc3T3Xd3hc4nfUSzAtuogD80leEpTvC30IEmNb4/edit?usp=sharing
 
 This project aimed to predict student dropouts using advanced deep learning models integrated with socioeconomic and demographic data. By leveraging Multi-Layer Perceptrons (MLPs) with embedding layers and TabTransformer architectures, the study analyzed a comprehensive dataset containing over 789,000 student records. The primary objective was to enhance predictive accuracy and provide actionable insights that educational institutions can use to implement early interventions, thereby improving student retention rates.
