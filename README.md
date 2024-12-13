@@ -9,8 +9,8 @@ Acknowledgments
 2. Brown University's Oscar GPU Cluster: For offering the necessary computational resources that facilitated efficient model training and experimentation.
 3. Course Instructors and Peers: For valuable feedback and guidance throughout the project development process.
 
-References
+References: 
 A comprehensive list of references is included in the project report, detailing all the academic papers and sources that informed this research.
 
-Contact
+Contact: 
 For any questions or further information, please contact me at samdeet_khan@brown.edu
