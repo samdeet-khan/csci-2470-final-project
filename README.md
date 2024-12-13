@@ -1,1 +1,1 @@
-# csci-2470-final-project
+Summer internship project at BRAC USA that focused on leveraging socioeconomic variables to predict student dropouts. "PathKeepr" refers to the final version of this project which incorporates other data in a multimodal approach to refine the predictive performance.
